@@ -139,7 +139,7 @@ Below are the key scenarios to validate the rate limiting behavior of the API:
 GET http://localhost:1000/api/ping
 ```
 
-**Rate Limit:**: Possible 2 requests every 5 seconds, with a maximum burst of 2 requests
+**Rate Limit**: Possible 2 requests every 5 seconds, with a maximum burst of 2 requests
 
 **✅ Expected Response**:
 
